@@ -1,5 +1,4 @@
-// to run json-server do:
-// npx json-server --watch data/db.json --port 8000
+
 
 import BlogList from "./BlogList";
 import useFetch from "./useFetch";

@@ -1,3 +1,8 @@
+//to start do:
+//npm run start
+// to run json-server do:
+// npx json-server --watch data/db.json --port 8000
+
 import { BrowserRouter as  Router, Route, Switch } from 'react-router-dom';
 import Navbar from './Navbar';
 import Home from './Home';
